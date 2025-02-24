@@ -1,8 +1,8 @@
 # Linux 
 ## usefull command
 ```shell
-$cd ..
-$mkdir
+cd ..
+mkdir
 $rmdir
 $gedit
 $ls -ltrh
